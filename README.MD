@@ -1,0 +1,1 @@
+This project will use Slack API to keep a track of when people in a team is on.
